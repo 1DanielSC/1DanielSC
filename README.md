@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+My name is Daniel Sehn Colao, I'm a 20 year-old Computer Science student at Universidade Federal do Rio Grande do Norte (UFRN).
+
+
+
 <!--
 **1DanielSC/1DanielSC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
