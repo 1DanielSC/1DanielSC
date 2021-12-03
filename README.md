@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Daniel Sehn Colao</h1>
-<h3 align="center"> I'm a 20 year-old Undergraduate Computer Science student at Universidade Federal do Rio Grande do Norte (UFRN), Brazil.</h3>
+<h3 align="center"> I'm a 20-year-old undergraduate student in Computer Science at the Universidade Federal do Rio Grande do Norte (UFRN), Brazil.</h3>
 
 - 🌱 I’m currently learning **Data Structures and Algorithms along with Machine Learning**
 
