@@ -2,7 +2,7 @@
 <h3 align="center"> I'm a 20-year-old undergraduate student in Computer Science at Universidade Federal do Rio Grande do Norte (UFRN), Brazil.</h3>
 
 - 📚 Learning Database Systems as well as Design and Analysis of Algorithms.
-- 📝 Currently involved in research on detection of Null Pointer exception in Java with Machine Learning.
+- 📝 Currently engaged in research on detection of Null Pointer exception in Java with Machine Learning.
 - 💪🏼 Future goals: Learn front-end technologies and improve problem-solving techniques.
 
 <div>
