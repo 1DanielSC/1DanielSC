@@ -1,8 +1,9 @@
 <h1 align="center">Hi 👋, I'm Daniel Sehn Colao</h1>
 <h3 align="center"> I'm a 20-year-old undergraduate student in Computer Science at Universidade Federal do Rio Grande do Norte (UFRN), Brazil.</h3>
 
-- 📚 Learning Database Systems as well as Design and Analysis of Algorithms.
+- 👨‍💻 Backend developer at [SmartMetropolis](https://smartmetropolis.imd.ufrn.br/?lang=pt#/pt).
 - 📝 Currently engaged in research on detection of Null Pointer exception in Java with Machine Learning.
+- 📚 Learning Database Systems as well as Design and Analysis of Algorithms.
 - 💪🏼 Future goals: Learn front-end technologies and improve problem-solving techniques.
 
 <div>
@@ -15,7 +16,7 @@
 <h3>📫 Reach out to me</h3>
 
 [![Gmail Badge](https://img.shields.io/badge/-danielscolao@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:danielscolao@gmail.com)](mailto:danielscolao@gmail.com)
-
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/daniel-sehn-colao-b05195234/)](https://www.linkedin.com/in/daniel-sehn-colao-b05195234/)
 
 ---
 <h3>🛠 Languages and Tools</h3>
