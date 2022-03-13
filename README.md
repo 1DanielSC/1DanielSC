@@ -16,7 +16,7 @@
 <h3>📫 Reach out to me</h3>
 
 [![Gmail Badge](https://img.shields.io/badge/-danielscolao@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:danielscolao@gmail.com)](mailto:danielscolao@gmail.com)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/daniel-sehn-colao-b05195234/)](https://www.linkedin.com/in/daniel-sehn-colao-b05195234/)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/daniel-sehn-colao/)](https://www.linkedin.com/in/daniel-sehn-colao/)
 
 ---
 <h3>🛠 Languages and Tools</h3>
