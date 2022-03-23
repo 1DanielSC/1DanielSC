@@ -26,10 +26,13 @@
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
   <img align="center" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/8/82/Devicon-html5-plain.svg" />
+  <img align="center" height="30" width="40" src="https://wiki.postgresql.org/images/a/a4/PostgreSQL_logo.3colors.svg" />
+  <img align="center" height="30" width="140" src="https://upload.wikimedia.org/wikipedia/commons/4/44/Spring_Framework_Logo_2018.svg" />
   <img align="center" height="30" width="140" src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Eclipse-Luna-Logo.svg" />
   <img align="center" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" />
   <img align="center" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg" />
 
+  
 </div>
 
 
