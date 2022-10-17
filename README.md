@@ -1,10 +1,9 @@
 <h1 align="center">Hi 👋, I'm Daniel Sehn Colao</h1>
-<h3 align="center"> I'm a 20-year-old undergraduate student in Computer Science at Universidade Federal do Rio Grande do Norte (UFRN), Brazil.</h3>
+<h3 align="center"> I'm a 21-year-old undergraduate student in Computer Science at Universidade Federal do Rio Grande do Norte (UFRN), Brazil.</h3>
 
 - 👨‍💻 Backend developer at [SmartMetropolis](https://smartmetropolis.imd.ufrn.br/?lang=pt#/pt).
-- 📝 Currently engaged in research on detection of Null Pointer exception in Java with Machine Learning.
-- 📚 Learning Database Systems as well as Design and Analysis of Algorithms.
-- 💪🏼 Future goals: Learn front-end technologies and improve problem-solving techniques.
+- 📚 Learning Distributed Applications as well as AI for stock market prediction.
+- 💪🏼 Future goal: Raise a company.
 
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=1danielsc&show_icons=true&theme=dark&title_color=19f9d8&text_color=ffffff&bg_color=002b36&locale=en" alt="1danielsc" />
