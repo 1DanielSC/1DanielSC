@@ -44,8 +44,8 @@
 <div style="display: inline_block">
   
   <img align="center" height="30" width="140" src="https://upload.wikimedia.org/wikipedia/commons/4/44/Spring_Framework_Logo_2018.svg" />
-  <img align="center" height="30" width="140" src="https://img.shields.io/badge/numpy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white" />
-  <img align="center" height="30" width="140" src="https://img.shields.io/badge/pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white" />
+  <img align="center" height="30" width="110" src="https://img.shields.io/badge/numpy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white" />
+  <img align="center" height="30" width="110" src="https://img.shields.io/badge/pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white" />
   <img align="center" height="30" width="40" src="https://wiki.postgresql.org/images/a/a4/PostgreSQL_logo.3colors.svg" />
   
 </div>
@@ -61,7 +61,7 @@
   <img align="center" height="30" width="140" src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Eclipse-Luna-Logo.svg" />
   <img align="center" height="30" width="140" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Docker_%28container_engine%29_logo.svg" />
   <img align="center" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" />
-  <img align="center" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg" />
+  <img align="center" height="30" width="35" src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg" />
   
 </div>
 
