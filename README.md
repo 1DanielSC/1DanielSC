@@ -1,17 +1,20 @@
 <h1 align="center">Daniel Sehn Colao</h1>
-<h3 align="center"> Undergraduate student in Computer Science at Universidade Federal do Rio Grande do Norte (UFRN), Brazil.</h3>
+<h3 align="center"> Computer Science student at Federal University of Rio Grande do Norte(UFRN), Brazil.</h3>
 
 - 👨‍💻 Backend developer at [SmartMetropolis](https://smartmetropolis.imd.ufrn.br/?lang=pt#/pt).
 - 📚 Currently studying: 
-  - Reactive Architectures
-  - Concurrent Programming
-  - Formal methods for Software Engineering.
+  - Reactive Architecture.
+  - Concurrent Programming.
+  - Formal Methods for Software Engineering.
   - Embedded Systems.
+    
 - :memo: Interests:
-  - Distributed Programming.
-  - Software Architecture.
   - Artificial Inteligence.
-  - Databases.
+  - Database Systems and Design.
+  - Distributed Systems.
+  - Software Architecture.
+  
+  
 
 
 <div>
@@ -54,7 +57,7 @@
 
 
 
-<h3>🛠 Tools</h3>
+<h3>🛠 Other Platforms and Tools</h3>
 
 <div style="display: inline_block">
   
@@ -66,7 +69,7 @@
 </div>
 
 ---
-<h3>⚙️ Other Softwares I'm Familiar with</h3>
+<h3>⚙️ Softwares I'm Familiar with</h3>
 
 <div style="display: inline_block">
   
