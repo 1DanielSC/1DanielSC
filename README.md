@@ -3,7 +3,7 @@
 
 - 👨‍💻 Backend developer at [SmartMetropolis](https://smartmetropolis.imd.ufrn.br/?lang=pt#/pt).
 - 📚 Currently studying: 
-  - Reactive Architecture.
+  - Reactive and Event-Driven Architectures.
   - Concurrent Programming.
   - Formal Methods for Software Engineering.
   - Embedded Systems.
@@ -23,52 +23,63 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=1danielsc&show_icons=true&title_color=19f9d8&text_color=ffffff&bg_color=002b36&locale=en&layout=compact" alt="1danielsc" />
 </div>
 
----
-<h3>📫 Reach out to me</h3>
 
-[![Gmail Badge](https://img.shields.io/badge/-danielscolao@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:danielscolao@gmail.com)](mailto:danielscolao@gmail.com)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/daniel-sehn-colao/)](https://www.linkedin.com/in/daniel-sehn-colao/)
 
 ---
-<h3>🛠 Languages</h3>
+<h3>📜 Programming Languages</h3>
 
 <div style="display: inline_block">
   
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
   <img align="center" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" />
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-  <img align="center" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/8/82/Devicon-html5-plain.svg" />
+  <!-- <img align="center" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/8/82/Devicon-html5-plain.svg" /> -->
   
 </div>
 
 ---
-<h3>🛠 Frameworks, Libraries and Databases</h3>
+<h3>🛠 Frameworks and Libraries</h3>
 
 <div style="display: inline_block">
   
   <img align="center" height="30" width="140" src="https://upload.wikimedia.org/wikipedia/commons/4/44/Spring_Framework_Logo_2018.svg" />
   <img align="center" height="30" width="110" src="https://img.shields.io/badge/numpy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white" />
   <img align="center" height="30" width="110" src="https://img.shields.io/badge/pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white" />
-  <img align="center" height="30" width="40" src="https://wiki.postgresql.org/images/a/a4/PostgreSQL_logo.3colors.svg" />
+
   
 </div>
 
 ---
 
 
-
-<h3>🛠 Other Platforms and Tools</h3>
+<h3>💾 RDBMS</h3>
 
 <div style="display: inline_block">
   
-  <img align="center" height="30" width="140" src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Eclipse-Luna-Logo.svg" />
-  <img align="center" height="30" width="140" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Docker_%28container_engine%29_logo.svg" />
-  <img align="center" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" />
-  <img align="center" height="30" width="35" src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg" />
+  <img align="center" height="30" width="40" src="https://wiki.postgresql.org/images/a/a4/PostgreSQL_logo.3colors.svg" />
+  <img align="center" height="30" width="110" src="https://upload.wikimedia.org/wikipedia/commons/9/93/MongoDB_Logo.svg" />
   
 </div>
 
 ---
+
+
+
+<h3>🛠 Platforms, IDEs, Editors and Tools</h3>
+
+<div style="display: inline_block">
+
+  <img align="center" height="30" width="140" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Docker_%28container_engine%29_logo.svg" />
+  <img align="center" height="30" width="140" src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Eclipse-Luna-Logo.svg" />
+  <img align="center" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" />
+  <img align="center" height="30" width="35" src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg" />
+  <img align="center" height="30" width="35" src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" />
+ 
+</div>
+
+---
+
+<!-- 
 <h3>⚙️ Softwares I'm Familiar with</h3>
 
 <div style="display: inline_block">
@@ -76,6 +87,12 @@
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg" />
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-original.svg" />
   <img align="center" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/b/b6/Adobe_Photoshop_Lightroom_CC_logo.svg" />
-
   
 </div>
+
+---  -->
+<h3>📫 Reach out to me</h3>
+
+[![Gmail Badge](https://img.shields.io/badge/-danielscolao@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:danielscolao@gmail.com)](mailto:danielscolao@gmail.com)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/daniel-sehn-colao/)](https://www.linkedin.com/in/daniel-sehn-colao/)
+
