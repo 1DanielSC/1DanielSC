@@ -52,7 +52,7 @@
 ---
 
 
-<h3>💾 RDBMS</h3>
+<h3>💾 Database Systems</h3>
 
 <div style="display: inline_block">
   
