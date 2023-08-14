@@ -3,10 +3,10 @@
 
 - 👨‍💻 Backend developer at [SmartMetropolis](https://smartmetropolis.imd.ufrn.br/?lang=pt#/pt).
 - 📚 Currently studying: 
-  - Reactive and Event-Driven Architectures.
-  - Concurrent Programming.
-  - Formal Methods for Software Engineering.
-  - Embedded Systems.
+  - Compiler Design.
+  - Software Architecture.
+  - Software Testing.
+  - Web Development (Front-End).
     
 - :memo: Interests:
   - Artificial Inteligence.
