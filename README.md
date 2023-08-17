@@ -14,7 +14,7 @@
   - Distributed Systems.
   - Software Architecture.
   
-  
+
 
 
 <div>
@@ -23,7 +23,12 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=1danielsc&show_icons=true&title_color=19f9d8&text_color=ffffff&bg_color=002b36&locale=en&layout=compact" alt="1danielsc" />
 </div>
 
+---
 
+<h3>📫 Reach out to me</h3>
+
+[![Gmail Badge](https://img.shields.io/badge/-danielscolao@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:danielscolao@gmail.com)](mailto:danielscolao@gmail.com)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/daniel-sehn-colao/)](https://www.linkedin.com/in/daniel-sehn-colao/)
 
 ---
 <h3>📜 Technologies </h3>
@@ -61,8 +66,5 @@
 </div>
 
 ---  -->
-<h3>📫 Reach out to me</h3>
 
-[![Gmail Badge](https://img.shields.io/badge/-danielscolao@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:danielscolao@gmail.com)](mailto:danielscolao@gmail.com)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/daniel-sehn-colao/)](https://www.linkedin.com/in/daniel-sehn-colao/)
 
