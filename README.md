@@ -24,24 +24,24 @@
 
 <p align="center">
   <a href=""> <!-- https://skillicons.dev -->
-    <img align="center" height="60" width="60" src="https://user-images.githubusercontent.com/25181517/117201156-9a724800-adec-11eb-9a9d-3cd0f67da4bc.png" />
-    <img align="center" height="50" width="50" src="https://user-images.githubusercontent.com/25181517/192106073-90fffafe-3562-4ff9-a37e-c77a2da0ff58.png" />
+    <img align="center" height="50" width="50" src="https://user-images.githubusercontent.com/25181517/117201156-9a724800-adec-11eb-9a9d-3cd0f67da4bc.png" />
+    <img align="center" height="40" width="40" src="https://user-images.githubusercontent.com/25181517/192106073-90fffafe-3562-4ff9-a37e-c77a2da0ff58.png" />
     <img align="center" height="35" width="35" src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" />
-    <img align="center" height="50" width="50" src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" />
-    <img align="center" height="60" width="60" src="https://user-images.githubusercontent.com/25181517/117201470-f6d56780-adec-11eb-8f7c-e70e376cfd07.png" />
+    <img align="center" height="40" width="40" src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" />
+    <img align="center" height="50" width="50" src="https://user-images.githubusercontent.com/25181517/117201470-f6d56780-adec-11eb-8f7c-e70e376cfd07.png" />
+    <img align="center" height="40" width="40" src="https://user-images.githubusercontent.com/25181517/182884894-d3fa6ee0-f2b4-4960-9961-64740f533f2a.png" />
+    <img align="center" height="40" width="40" src="https://wiki.postgresql.org/images/a/a4/PostgreSQL_logo.3colors.svg" />
+    <img align="center" height="50" width="50" src="https://user-images.githubusercontent.com/25181517/182884177-d48a8579-2cd0-447a-b9a6-ffc7cb02560e.png" />
+    <img align="center" height="40" width="40" src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" />
+    <img align="center" height="50" width="60" src="https://user-images.githubusercontent.com/25181517/117207330-263ba280-adf4-11eb-9b97-0ac5b40bc3be.png" />
+    <img align="center" height="20" width="130" src="https://upload.wikimedia.org/wikipedia/commons/7/71/RabbitMQ_logo.svg" />
     <img align="center" height="30" width="110" src="https://img.shields.io/badge/numpy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white" />
     <img align="center" height="30" width="110" src="https://img.shields.io/badge/pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white" />
-    <img align="center" height="50" width="50" src="https://user-images.githubusercontent.com/25181517/182884894-d3fa6ee0-f2b4-4960-9961-64740f533f2a.png" />
-    <img align="center" height="50" width="50" src="https://wiki.postgresql.org/images/a/a4/PostgreSQL_logo.3colors.svg" />
-    <img align="center" height="60" width="60" src="https://user-images.githubusercontent.com/25181517/182884177-d48a8579-2cd0-447a-b9a6-ffc7cb02560e.png" />
-    <img align="center" height="60" width="70" src="https://user-images.githubusercontent.com/25181517/117207330-263ba280-adf4-11eb-9b97-0ac5b40bc3be.png" />
-    <img align="center" height="50" width="50" src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" />
-    <img align="center" height="20" width="130" src="https://upload.wikimedia.org/wikipedia/commons/7/71/RabbitMQ_logo.svg" />
   </a>
 </p>
 
 
-
+<br>
 
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=1danielsc&show_icons=true&theme=dark&title_color=19f9d8&text_color=ffffff&bg_color=002b36&locale=en" alt="1danielsc" />
