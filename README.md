@@ -2,16 +2,10 @@
 <h3 align="center"> Computer Science student at Federal University of Rio Grande do Norte(UFRN), Brazil.</h3>
 
 - 👨‍💻 Backend developer at [SmartMetropolis](https://smartmetropolis.imd.ufrn.br/?lang=pt#/pt).
-- 📚 Currently studying: 
-  - Compiler Design.
-  - Software Architecture.
-  - Software Testing.
-  - Web Development (Front-End).
     
 - :memo: Interests:
-  - Artificial Inteligence.
   - Database Systems and Design.
-  - Distributed Systems.
+  - Distributed Programming.
   - Software Architecture.
   
 <h3>📫 Reach out to me</h3>
